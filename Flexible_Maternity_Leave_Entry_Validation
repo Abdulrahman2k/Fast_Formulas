@@ -1,11 +1,11 @@
 /* 
 *******************************************************************************************************
- Formula Name   : ALDAR Flexible Maternity Leave Entry Validation
+ Formula Name   : Flexible Maternity Leave Entry Validation
  Formula Type   : Global Absence Entry Validation
  LDG            : AE Legislative Data Group
  
  Description    : 
-					Aldar
+					
 					•	Leave should be availed in continuation to the child`s birth.				  
 					• 	female employees are eligible for flexible Maternity leave for 30 working days following their Maternity leave.
 					• 	These 30 days should be used within a 6 Months after the Maternity Leave End Date.

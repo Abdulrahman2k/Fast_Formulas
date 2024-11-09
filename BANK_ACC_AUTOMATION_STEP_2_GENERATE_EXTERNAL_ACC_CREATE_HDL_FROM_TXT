@@ -1,5 +1,5 @@
 /********************************************************** *
-* FORMULA NAME: ALDAR_BANK_ACC_AUTOMATION_STEP_2_GENERATE_EXTERNAL_ACC_CREATE_HDL_FROM_TXT
+* FORMULA NAME: BANK_ACC_AUTOMATION_STEP_2_GENERATE_EXTERNAL_ACC_CREATE_HDL_FROM_TXT
 * FORMULA TYPE: HCM Data Loader
 * DESCRIPTION: This formula will create ExternalBankAccount HDL File for Creating Employee existing Bank Account from TXT File
 * CHANGE HISTORY:

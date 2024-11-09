@@ -5,6 +5,8 @@ FORMULA TYPE: Payroll
 
 DESCRIPTION:  This is the formula for processing a flat amount for Airfare Allowance Element.
 
+Author        : Abdulrahman Mohammed
+
 Formula Results :
 l_value               Direct Result for Earnings Pay Value. 
 *******************************************************************************/

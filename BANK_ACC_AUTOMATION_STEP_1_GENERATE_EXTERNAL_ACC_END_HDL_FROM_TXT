@@ -1,5 +1,5 @@
 /********************************************************** *
-* FORMULA NAME: GENERATE_EXTERNALBANKACCOUNTENDDATE_HDL_FROM_TXT
+* FORMULA NAME: BANK_ACC_AUTOMATION_STEP_1_GENERATE_EXTERNAL_ACC_END_HDL_FROM_TXT
 * FORMULA TYPE: HCM Data Loader
 * DESCRIPTION: This formula will create ExternalBankAccount HDL File for Enddating Employee existing Bank Account from TXT File
 * CHANGE HISTORY:
